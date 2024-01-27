@@ -1,0 +1,283 @@
+/* shere item h5 */
+h5{
+    width: 400px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    margin: auto;
+    text-align: center;
+    }
+.banner{
+background-image: url('img/Banner\ Image.png');
+background-repeat: no-repeat;
+border-radius: 16px;
+margin:50px 280px;
+text-align: center;
+}
+.text{
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); 
+    max-width: 1320px;
+    height: 600px;
+  
+}
+.banner .text h2{
+    width: 600px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin: 220px auto 0;
+    text-align: center;
+}
+.our{
+    width: 1320px;
+    margin: 50px auto;
+}
+.holiday{
+    margin: 15px auto;
+}
+.our .holiday .holiday-text h1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 700;
+}
+.our .holiday .holiday-text h6{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+}
+.our .holiday .holiday-text h4{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 35px;
+    font-weight: 700;
+}
+.our .holiday .holiday-img img{
+    width: 750px;
+    height: 450px;
+    margin: 30px 280px;
+}
+/* 65% end */
+.super-banner{
+    background-image: url('img/Vectorrr.png');
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.super-container{
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 , rgba(7, 2, 17, 0.00));
+    max-width: 1320px;
+    height: 600px;
+    margin:0 auto ;
+}
+.dolor{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.super-banner-text *{
+    margin: 25px 0px 0px 125px;
+}
+.dolor .super-banner-text h2{
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 88px;
+}
+.dolor .super-banner-text p{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.dolor .super-banner-text button{
+    background-color: black;
+    color: #FFF;
+    padding: 2px 2px;
+}
+.dolor .banner-img img{
+     width: 280px;
+}
+/* place time section */
+.hotel{
+ background:  linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
+ max-width: 1320px;
+ height: 432px;
+ margin: 20px auto;
+}
+.cool{
+    display: flex;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    margin: 200px auto;
+    padding: 30px;
+
+}
+.place{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.place .call-1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+}
+.place .call-2{
+    color: #070211;
+    font-family: Inter;
+    font-size: 23px;
+    font-weight: 600;
+}
+.date{
+    display: flex;
+    justify-content: center;
+} 
+.date .call-3{
+    color: #F00;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+}
+.date .call-4{
+    color: #070211;
+    font-family: Inter;
+    font-size: 23px;
+    font-weight: 600; 
+}
+.time{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.time .call-5{
+    color: #F00;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+}
+.time .call-6{
+    color: #070211;
+    font-family: Inter;
+    font-size: 23px;
+    font-weight: 600;
+}
+.cool .btn{
+    margin: 15px auto;
+    padding: 5px 18px;
+    border-radius: 5px;
+    background: #F00;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 700;
+}
+/* coming soon style */
+/* cooming,soon,soo-text,soon-img, greetings */
+.cooming{
+    max-width: 1320px;
+    height: 500px;
+    /* border: 5px solid yellowgreen; */
+    display:flex ;
+    margin: 30px auto;
+}
+.cooming .soon{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.cooming .soon-text{
+     margin: 120px 0px;
+     padding: 20px;
+}
+.soon .soon-text h6{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+}
+.soon .soon-text h3{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 35px;
+    font-weight: 900;
+}
+.soon .soon-text p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+}
+.soon .soon-img img{
+    width: 340px;
+    height: 330px;
+    border-radius: 463px;
+    border-spacing: 3px;
+    border: 10px solid #F00;
+    padding-block-start: 50px;
+    padding: 10px;
+    margin: 50px 280px;
+}
+.cooming .greetings{
+    margin: 120px 0px;
+}
+.greetings .greeting-text h4{
+    color: #F00;
+    font-family: Inter;
+    font-size: 35px;
+    font-weight: 700;
+}
+.greetings .greeting-text p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.greetings .greeting-img img{
+    width: 110px;
+    height: 110px;
+}
+/* cooming soon style */
+h6{
+    color: #F00;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+}
+.portfolio{
+    max-width: 1320px;
+    margin: 10px auto;
+}
+.portfolio .portfolio-text h3{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+}
+.portfolio .portfolio-text p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+.portfolio .portfolio-img img{
+    width: 424px;
+    height: 450px;
+    margin: 6px;
+    padding: 0;
+}
